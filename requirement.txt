@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+steamlit==1.15.0
+matplotlib==3.5.2
